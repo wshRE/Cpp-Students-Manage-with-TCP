@@ -1,0 +1,22 @@
+﻿  ClientDlg.cpp
+C:\Users\OvO\Desktop\end\Client\Client\CMyTcp.h(428,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\OvO\Desktop\end\Client\Client\ClientDlg.cpp(232,29): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\OvO\Desktop\end\Client\Client\ClientDlg.cpp(263,29): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\OvO\Desktop\end\Client\Client\ClientDlg.cpp(293,29): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\OvO\Desktop\end\Client\Client\ClientDlg.cpp(325,29): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\OvO\Desktop\end\Client\Client\ClientDlg.cpp(356,29): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\OvO\Desktop\end\Client\Client\ClientDlg.cpp(385,29): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\OvO\Desktop\end\Client\Client\ClientDlg.cpp(418,46): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\OvO\Desktop\end\Client\Client\ClientDlg.cpp(448,46): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\OvO\Desktop\end\Client\Client\ClientDlg.cpp(477,46): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\OvO\Desktop\end\Client\Client\ClientDlg.cpp(766,29): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\OvO\Desktop\end\Client\Client\ClientDlg.cpp(827,29): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\OvO\Desktop\end\Client\Client\ClientDlg.cpp(892,29): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\OvO\Desktop\end\Client\Client\ClientDlg.cpp(961,29): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\OvO\Desktop\end\Client\Client\ClientDlg.cpp(1025,29): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\OvO\Desktop\end\Client\Client\ClientDlg.cpp(1091,29): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\OvO\Desktop\end\Client\Client\ClientDlg.cpp(1237,48): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\OvO\Desktop\end\Client\Client\ClientDlg.cpp(1304,50): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\OvO\Desktop\end\Client\Client\ClientDlg.cpp(1370,50): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\OvO\Desktop\end\Client\Client\ClientDlg.cpp(1436,29): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  Client.vcxproj -> C:\Users\OvO\Desktop\end\Client\x64\Debug\Client.exe

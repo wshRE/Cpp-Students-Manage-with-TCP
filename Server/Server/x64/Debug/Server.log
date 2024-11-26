@@ -1,0 +1,20 @@
+﻿  Server.cpp
+C:\Users\OvO\Desktop\end\Server\Server\CMyTcp.h(129,35): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\OvO\Desktop\end\Server\Server\CMyTcp.h(190,35): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\OvO\Desktop\end\Server\Server\CMyTcp.h(450,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\OvO\Desktop\end\Server\Server\CTask.h(637,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\OvO\Desktop\end\Server\Server\CTask.h(692,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\OvO\Desktop\end\Server\Server\CTask.h(751,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\OvO\Desktop\end\Server\Server\CTask.h(806,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\OvO\Desktop\end\Server\Server\CTask.h(855,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\OvO\Desktop\end\Server\Server\CTask.h(905,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\OvO\Desktop\end\Server\Server\CTask.h(957,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\OvO\Desktop\end\Server\Server\CTask.h(1012,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\OvO\Desktop\end\Server\Server\CTask.h(1068,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\OvO\Desktop\end\Server\Server\CTask.h(1135,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\OvO\Desktop\end\Server\Server\CTask.h(1191,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\OvO\Desktop\end\Server\Server\CTask.h(1276,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\OvO\Desktop\end\Server\Server\CTask.h(1339,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\OvO\Desktop\end\Server\Server\CTask.h(1402,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\OvO\Desktop\end\Server\Server\CTask.h(1458,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  Server.vcxproj -> C:\Users\OvO\Desktop\end\Server\x64\Debug\Server.exe
